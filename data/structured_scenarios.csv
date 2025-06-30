@@ -1,0 +1,171 @@
+scenario,speaker,utterance
+Scenario 1 - light accident - communication with PSAP 2,Agent,Communication between 2nd Agent and the PSAP
+Scenario 1 - light accident - communication with PSAP 2,Agent,2nd Agent
+Scenario 1 - light accident - communication with PSAP 2,Other Party,PSAP
+Scenario 1 - light accident - communication with PSAP 2,Other Party,"Fire Brigade Dispatching Center Berlin, how can I help you?"
+Scenario 1 - light accident - communication with PSAP 2,Agent,"Hello, this is XXX from the Bosch Emergency Center, we have received an automatic emergency call from a BMW that had an accident. Can I provide you with the position?"
+Scenario 1 - light accident - communication with PSAP 2,Other Party,"Yes sure, where did it happen?"
+Scenario 1 - light accident - communication with PSAP 2,Agent,"I can see in my system, that it is on the Federal Highway B1 – Königstraße in 14109 Berlin- Steglitz-Zehlendorf."
+Scenario 1 - light accident - communication with PSAP 2,Other Party,Where exactly on the B1?
+Scenario 1 - light accident - communication with PSAP 2,Agent,"It is next to the Golf- and Land-Club Berlin-Wannsee. I can give you the exact geographic coordinates, if you wish!"
+Scenario 1 - light accident - communication with PSAP 2,Other Party,No need for the coordinates! This is clear enough!
+Scenario 1 - light accident - communication with PSAP 2,Other Party,"So, what happened?"
+Scenario 1 - light accident - communication with PSAP 2,Agent,"According to the data we received from the sensors of the BMW, it was a light rear collision and there must be 2 adults and a child in the vehicle. I can also see that multiple airbags were deployed."
+Scenario 1 - light accident - communication with PSAP 2,Agent,My colleague who has the voice connection with the driver is gathering more information right now.
+Scenario 1 - light accident - communication with PSAP 2,Other Party,Do you know if anyone is injured?
+Scenario 1 - light accident - communication with PSAP 2,Agent,"I now received the information, that no one is injured in the BMW we received the emergency call from."
+Scenario 1 - light accident - communication with PSAP 2,Other Party,And in the other cars? And how many cars are involved?
+Scenario 1 - light accident - communication with PSAP 2,Agent,According to the BMW driver he had a rear collision with another car. No further vehicles are involved.
+Scenario 1 - light accident - communication with PSAP 2,Agent,There are no injured persons in the other car as well.
+Scenario 1 - light accident - communication with PSAP 2,Agent,"There is a 5 year old child in the BMW, but no one is injured like I said."
+Scenario 1 - light accident - communication with PSAP 2,Agent,No one is trapped in.
+Scenario 1 - light accident - communication with PSAP 2,Agent,They are seeing white smoke which should be from the airbags. And no liquids dropping off the vehicle.
+Scenario 1 - light accident - communication with PSAP 2,Agent,The two vehicles are blocking the middle and right lanes.
+Scenario 1 - light accident - communication with PSAP 2,Other Party,Do you know the name and the phone number of the driver?
+Scenario 1 - light accident - communication with PSAP 2,Agent,"Yes, his name is: XXX and his phone number is: XXX."
+Scenario 1 - light accident - communication with PSAP 2,Other Party,"And we also need the license plate of his vehicle, if possible!"
+Scenario 1 - light accident - communication with PSAP 2,Agent,"Just a moment, my colleague is asking for the license plate!"
+Scenario 1 - light accident - communication with PSAP 2,Other Party,Okay!
+Scenario 1 - light accident - communication with PSAP 2,Agent,The license plate is: B-XX 1234.
+Scenario 1 - light accident - communication with PSAP 2,Other Party,Okay thank you for the information! We will dispatch the police and fire brigade! They will be on site in about 8 minutes.
+Scenario 1 - light accident - communication with PSAP 2,Agent,"Great, thank you so much! Have a calm shift! Goodbye!"
+Scenario 1 - light accident - communication with PSAP 2,Other Party,Thank you! Goodbye!
+Scenario 1 - light accident - communication with PSAP 2,Agent,2nd Agent informs 1st agent via chat about what services are being dispatched and about the ETA
+Scenario 1 - light accident - communication with PSAP 2,Agent,END
+Scenario 2 - objects on the road - communication with the customer 2,Agent,Communication between 1st Agent and customer
+Scenario 2 - objects on the road - communication with the customer 2,Agent,1st Agent
+Scenario 2 - objects on the road - communication with the customer 2,Other Party,Customer
+Scenario 2 - objects on the road - communication with the customer 2,Agent,We have received an emergency call! What happened?
+Scenario 2 - objects on the road - communication with the customer 2,Other Party,"Hello, I pushed the SOS button to inform you about wooden objects on the roadway I saw about 1 kilometer before my current position!"
+Scenario 2 - objects on the road - communication with the customer 2,Other Party,"I am now in hmmmmm! Just a moment, I need to check where!"
+Scenario 2 - objects on the road - communication with the customer 2,Agent,"Don’t worry, Sir! We can see your exact position. You are on the highway A1 between Ladbergen and Greven in the direction: North to South, right?"
+Scenario 2 - objects on the road - communication with the customer 2,Other Party,"Yes, that’s correct!"
+Scenario 2 - objects on the road - communication with the customer 2,Agent,Did you recognize on which lane the wooden objects are?
+Scenario 2 - objects on the road - communication with the customer 2,Other Party,They are on the right lane and partly on the side strip I guess.
+Scenario 2 - objects on the road - communication with the customer 2,Agent,"Okay Sir, my name is XXX, I will now inform the police about the objects. Could you please provide me with your name and phone number in case the police has any additional questions?"
+Scenario 2 - objects on the road - communication with the customer 2,Other Party,"Yeah, sure!"
+Scenario 2 - objects on the road - communication with the customer 2,Other Party,My name is: XXX und my phone number is: XXX
+Scenario 2 - objects on the road - communication with the customer 2,Agent,"Thank you, Sir! I will call them now. Do you need me to confirm to you after I inform them? Or could I end the emergency call now?"
+Scenario 2 - objects on the road - communication with the customer 2,Other Party,"No, thank you, no need for an additional confirmation! You can end the call!"
+Scenario 2 - objects on the road - communication with the customer 2,Agent,"Okay, Sir! Thank you for reporting that! I will end the emergency call now! If you need any further support push the SOS button in your roof module any time again!"
+Scenario 2 - objects on the road - communication with the customer 2,Agent,I wish you a safe ride!
+Scenario 2 - objects on the road - communication with the customer 2,Agent,Goodbye!
+Scenario 2 - objects on the road - communication with the customer 2,Other Party,Thank you! Goodbye!
+Scenario 2 - objects on the road - communication with PSAP 2,Agent,Communication between 1st Agent and the PSAP
+Scenario 2 - objects on the road - communication with PSAP 2,Agent,1st Agent
+Scenario 2 - objects on the road - communication with PSAP 2,Other Party,PSAP
+Scenario 2 - objects on the road - communication with PSAP 2,Other Party,"Polizei Bezirksdienst Ladbergen, how can I help you?"
+Scenario 2 - objects on the road - communication with PSAP 2,Agent,"Hello, this is XXX from the Bosch Emergency Center, we have received a manual emergency call from a BMW. The driver is reporting that wooden objects are on the right lane and the side strip of the highway A1. Can I provide you with the position?"
+Scenario 2 - objects on the road - communication with PSAP 2,Other Party,"Yes sure, where exactly on the A1 is it?"
+Scenario 2 - objects on the road - communication with PSAP 2,Agent,According to the customer it was 1 kilometer before the position he called us from. So it must be near the Airport Müster/ Osnabrück on the A1 betwenn Ladbergen and Greven.
+Scenario 2 - objects on the road - communication with PSAP 2,Other Party,In which direction?
+Scenario 2 - objects on the road - communication with PSAP 2,Agent,North to South.
+Scenario 2 - objects on the road - communication with PSAP 2,Other Party,Do you have the name and phone number of the driver who reported that?
+Scenario 2 - objects on the road - communication with PSAP 2,Agent,"Yes, his name is: XXX"
+Scenario 2 - objects on the road - communication with PSAP 2,Agent,and his phone number is: XXX
+Scenario 2 - objects on the road - communication with PSAP 2,Other Party,"Okay, thank you for reporting that! We will send someone to the scene!"
+Scenario 2 - objects on the road - communication with PSAP 2,Agent,"Great, thank you! Could you please tell me when you will be on site?"
+Scenario 2 - objects on the road - communication with PSAP 2,Other Party,As soon as possible! In about 15 minutes.
+Scenario 2 - objects on the road - communication with PSAP 2,Agent,Thank you! I wish you a calm shift!
+Scenario 2 - objects on the road - communication with PSAP 2,Agent,Goodbye!
+Scenario 2 - objects on the road - communication with PSAP 2,Other Party,Thank you! Same to you!
+Scenario 2 - objects on the road - communication with PSAP 2,Other Party,Goodbye!
+Scenario 2 - objects on the road - communication with PSAP 2,Agent,END
+Scenario 3 - customer in a need of RSA 2,Agent,Communication between 1st Agent and customer
+Scenario 3 - customer in a need of RSA 2,Agent,1st Agent
+Scenario 3 - customer in a need of RSA 2,Other Party,Customer
+Scenario 3 - customer in a need of RSA 2,Agent,We have received an emergency call! What happened?
+Scenario 3 - customer in a need of RSA 2,Other Party,"Hello, I have a break down with my BMW. The engine seems to be overheated and I need Roadside Assistance! Can you see my position?"
+Scenario 3 - customer in a need of RSA 2,Agent,"Don’t worry, Sir! We can see your exact position. You are on the highway A1 between Ladbergen and Greven in the direction: North to South, right?"
+Scenario 3 - customer in a need of RSA 2,Other Party,"Yes, that’s correct!"
+Scenario 3 - customer in a need of RSA 2,Agent,"Okay, Sir! I will now transfer you to the BMW Roadside Assistance! They will organize help for you!"
+Scenario 3 - customer in a need of RSA 2,Agent,If you need any further support please push the SOS button again any time!
+Scenario 3 - customer in a need of RSA 2,Agent,I wish you all the best!
+Scenario 3 - customer in a need of RSA 2,Agent,Goodbye!
+Scenario 3 - customer in a need of RSA 2,Other Party,Thank you! Goodbye!
+Scenario 3 - customer in a need of RSA 2,Agent,END
+Scenario 4 - accident with inujry - communcaition with customer 2,Agent,Communication between 1st Agent and witness since customer heavily injured
+Scenario 4 - accident with inujry - communcaition with customer 2,Agent,1st Agent
+Scenario 4 - accident with inujry - communcaition with customer 2,Other Party,Customer
+Scenario 4 - accident with inujry - communcaition with customer 2,Agent,We have received an emergency call!
+Scenario 4 - accident with inujry - communcaition with customer 2,Agent,What happened?
+Scenario 4 - accident with inujry - communcaition with customer 2,Other Party,*Customer Breathing
+Scenario 4 - accident with inujry - communcaition with customer 2,Agent,"If you can hear me, my name is XXX from the BMW Emergency Center. We already notified the rescue teams!"
+Scenario 4 - accident with inujry - communcaition with customer 2,Agent,Don’t worry! I am staying with you until help arrives!
+Scenario 4 - accident with inujry - communcaition with customer 2,Agent,If you can hear me? Are you okay?
+Scenario 4 - accident with inujry - communcaition with customer 2,Other Party,I just had an accident…
+Scenario 4 - accident with inujry - communcaition with customer 2,Agent,Don’t worry! I can see your exact position and I have every information I will organize help for you. I am staying with you until they arrive!!
+Scenario 4 - accident with inujry - communcaition with customer 2,Other Party,"Yes, we need help. I’m not okay…"
+Scenario 4 - accident with inujry - communcaition with customer 2,Agent,I am there for you! Help is on the way!
+Scenario 4 - accident with inujry - communcaition with customer 2,Other Party,"I think I’m injured, I have pain in my legs.."
+Scenario 4 - accident with inujry - communcaition with customer 2,Agent,Do you know what happened?
+Scenario 4 - accident with inujry - communcaition with customer 2,Other Party,It seems like the vehicle slipped off the road and had a rollover!
+Scenario 4 - accident with inujry - communcaition with customer 2,Agent,"So, no other vehicles or persons are involved at the scene?"
+Scenario 4 - accident with inujry - communcaition with customer 2,Other Party,I’m not sure..
+Scenario 4 - accident with inujry - communcaition with customer 2,Agent,What injuries do you have? You said you have pain in your legs? Are you bleeding or can you see any bruises?
+Scenario 4 - accident with inujry - communcaition with customer 2,Other Party,"Yes my legs hurt, I don’t see any blood. I have headache."
+Scenario 4 - accident with inujry - communcaition with customer 2,Agent,Thank you for the information!
+Scenario 4 - accident with inujry - communcaition with customer 2,Agent,Is the vehicle on the roof or the side?
+Scenario 4 - accident with inujry - communcaition with customer 2,Other Party,"No, it is not! It is standing straight."
+Scenario 4 - accident with inujry - communcaition with customer 2,Agent,"And the vehicle had slipped off the road, so the road is not blocked, right? And is there any impairment of the roadway or objects on the roadway?"
+Scenario 4 - accident with inujry - communcaition with customer 2,Other Party,"I am on the the right lane, I think it is partly blocked."
+Scenario 4 - accident with inujry - communcaition with customer 2,Agent,Can you see any dark smoke from the vehicle?
+Scenario 4 - accident with inujry - communcaition with customer 2,Other Party,"No, there is no smoke, I guess!"
+Scenario 4 - accident with inujry - communcaition with customer 2,Agent,"Okay, thank you for the information! The help is on the way."
+Scenario 4 - accident with inujry - communcaition with customer 2,Agent,And are there any liquids dropping off the vehicle?
+Scenario 4 - accident with inujry - communcaition with customer 2,Other Party,I can’t see really
+Scenario 4 - accident with inujry - communcaition with customer 2,Agent,Thank you very much for your help. We have delivered the information to the help which is on the way to the position of the vehicle.
+Scenario 4 - accident with inujry - communcaition with customer 2,Agent,Are you able to tell me your name and a phone number of yours in case the rescue teams need further information?
+Scenario 4 - accident with inujry - communcaition with customer 2,Other Party,My name is XXX.
+Scenario 4 - accident with inujry - communcaition with customer 2,Other Party,My phone number is XXX.
+Scenario 4 - accident with inujry - communcaition with customer 2,Agent,"Thank you so much, Mr. XXX."
+Scenario 4 - accident with inujry - communcaition with customer 2,Agent,"I am staying here with you. Please don’t worry and talk to me any time, if something new happens."
+Scenario 4 - accident with inujry - communcaition with customer 2,Other Party,Okay.
+Scenario 4 - accident with inujry - communcaition with customer 2,Agent,after the information from the 2nd agent which services are being dispatched
+Scenario 4 - accident with inujry - communcaition with customer 2,Agent,and about the estimated time of arrival (ETA)
+Scenario 4 - accident with inujry - communcaition with customer 2,Agent,This is XXX from the Emergency Center. Help will be on site in approximately 5 minutes. I am staying with you till help arrives. You can talk to me any time.
+Scenario 4 - accident with inujry - communcaition with customer 2,Other Party,"Yes, yes thank you. I think I’m okay, I’m getting out."
+Scenario 4 - accident with inujry - communcaition with customer 2,Agent,Please take care of your own safety!
+Scenario 4 - accident with inujry - communcaition with customer 2,Other Party,"*noises, no answer from the customer*"
+Scenario 4 - accident with inujry - communcaition with customer 2,Agent,This is XXX from the Emergency Center. Help will be on site in approximately 1 minute. I am staying with you till help arrives. You can talk to me any time.
+Scenario 4 - accident with inujry - communcaition with customer 2,Agent,after 1st Agent hears sirens that became louder and louder till they stopped
+Scenario 4 - accident with inujry - communcaition with customer 2,Agent,This is XXX from the Emergency Center.
+Scenario 4 - accident with inujry - communcaition with customer 2,Agent,I can hear sirens! Are the rescue teams on site?
+Scenario 4 - accident with inujry - communcaition with customer 2,Other Party,*door opening
+Scenario 4 - accident with inujry - communcaition with customer 2,Other Party,"Police Officer: Yes, this is officer XXX, we are on site."
+Scenario 4 - accident with inujry - communcaition with customer 2,Agent,Thank you for the information.
+Scenario 4 - accident with inujry - communcaition with customer 2,Agent,I will end the emergency call now.
+Scenario 4 - accident with inujry - communcaition with customer 2,Agent,"If any further support is needed again, you can reach us 24/7 by pushing the SOS button in the roof module."
+Scenario 4 - accident with inujry - communcaition with customer 2,Agent,I wish you good recovery and all the best.
+Scenario 4 - accident with inujry - communcaition with customer 2,Agent,Goodbye.
+Scenario 4 - accident with inujry - communcaition with PSAP  2,Agent,Communication between 2nd Agent and the PSAP
+Scenario 4 - accident with inujry - communcaition with PSAP  2,Agent,2nd Agent
+Scenario 4 - accident with inujry - communcaition with PSAP  2,Other Party,PSAP
+Scenario 4 - accident with inujry - communcaition with PSAP  2,Other Party,"Fire Brigade Dispatching Center Berlin, how can I help you?"
+Scenario 4 - accident with inujry - communcaition with PSAP  2,Agent,"Hello, this is XXX from the Bosch Emergency Center, we have received an automatic emergency call from a BMW that had an accident. Can I provide you with the position?"
+Scenario 4 - accident with inujry - communcaition with PSAP  2,Other Party,"Yes sure, where did it happen?"
+Scenario 4 - accident with inujry - communcaition with PSAP  2,Agent,"I can see in my system, that it is on the Federal Highway  B1 – Königstraße in 14109 Berlin- Steglitz-Zehlendorf."
+Scenario 4 - accident with inujry - communcaition with PSAP  2,Other Party,Where exactly on the B1?
+Scenario 4 - accident with inujry - communcaition with PSAP  2,Agent,"I can give you the exact geographic coordinates, if you wish."
+Scenario 4 - accident with inujry - communcaition with PSAP  2,Other Party,"Yes, please! But please the decimal coordinates!"
+Scenario 4 - accident with inujry - communcaition with PSAP  2,Agent,"Sure, the decimal coordinates are:"
+Scenario 4 - accident with inujry - communcaition with PSAP  2,Agent,"52.416189, 13.130852"
+Scenario 4 - accident with inujry - communcaition with PSAP  2,Other Party,"I see, and what exactly happened?"
+Scenario 4 - accident with inujry - communcaition with PSAP  2,Agent,"According to the data we received from the sensors of the BMW, it was a rollover and there is only the driver in the vehicle. My colleague who has the voice connection with the driver is gathering more information right now."
+Scenario 4 - accident with inujry - communcaition with PSAP  2,Other Party,Do you know if anyone is injured?
+Scenario 4 - accident with inujry - communcaition with PSAP  2,Agent,"Yes, I just received the info, that the driver is most likely injured. He has pain in the legs and headache."
+Scenario 4 - accident with inujry - communcaition with PSAP  2,Agent,There is no bleeding or bruises visible.
+Scenario 4 - accident with inujry - communcaition with PSAP  2,Agent,The vehicle was slipped off the road and had a rollover. No other vehicles or persons are involved.
+Scenario 4 - accident with inujry - communcaition with PSAP  2,Agent,The right lane is partly blocked.
+Scenario 4 - accident with inujry - communcaition with PSAP  2,Agent,The driver has just left the vehicle.
+Scenario 4 - accident with inujry - communcaition with PSAP  2,Other Party,"Okay, any additional info, you can provide us with?"
+Scenario 4 - accident with inujry - communcaition with PSAP  2,Agent,We got the name and the phone number of the person in the accident.
+Scenario 4 - accident with inujry - communcaition with PSAP  2,Agent,His name is: XXX
+Scenario 4 - accident with inujry - communcaition with PSAP  2,Agent,His phone number is: XXX
+Scenario 4 - accident with inujry - communcaition with PSAP  2,Other Party,"Okay, thank you for informing us. We will take care of the case!"
+Scenario 4 - accident with inujry - communcaition with PSAP  2,Agent,"Thank you, Sir, but could you please tell me, what services you are dispatching and what the estimated time of arrival is?"
+Scenario 4 - accident with inujry - communcaition with PSAP  2,Other Party,"We are dispatching help, they should be on site in about 5 minutes."
+Scenario 4 - accident with inujry - communcaition with PSAP  2,Agent,"Great, thank you so much! Have a calm shift! Goodbye!"
+Scenario 4 - accident with inujry - communcaition with PSAP  2,Other Party,Thank you! Goodbye!
+Scenario 4 - accident with inujry - communcaition with PSAP  2,Agent,2nd Agent informs 1st agent via chat about what services are being dispatched and about the ETA
+Scenario 4 - accident with inujry - communcaition with PSAP  2,Agent,END

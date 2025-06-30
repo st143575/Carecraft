@@ -1,0 +1,33 @@
+================================================================================
+RSA EMERGENCY TRAINING SESSION TRANSCRIPT
+================================================================================
+
+TRAINING SCENARIO:
+Type: Vehicle Breakdown - Flat Tire
+Location: Highway 95, mile marker 47, northbound shoulder
+Urgency: HIGH
+Situation: You are driving on Highway 95 near mile marker 47 when your front left tire suddenly goes flat. 
+        You've managed to pull over to the shoulder safely, but you're stranded. It's getting dark and you're feeling anxious. 
+        You don't have a spare tire or the tools to change it. You need roadside assistance urgently!
+
+CONVERSATION TRANSCRIPT (JSON):
+[
+  {
+    "id": 1,
+    "timestamp": "00:00",
+    "speaker": "customer",
+    "message": "Oh my god, please help me! I’m on Highway 95, near mile marker 47! My front left tire just went flat! I managed to pull over to the shoulder, but I don’t have a spare or any tools! It’s getting dark and I’m really scared. I need someone to come help me, please!",
+    "section": 1
+  },
+  {
+    "id": 2,
+    "timestamp": "00:31",
+    "speaker": "trainee",
+    "message": "where exactly are you",
+    "section": 1
+  }
+]
+
+================================================================================
+END OF TRANSCRIPT
+================================================================================

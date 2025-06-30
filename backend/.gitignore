@@ -1,0 +1,94 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environment directories
+venv/
+env/
+.venv/
+ENV/
+.ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyCharm project files
+.idea/
+
+# VSCode project files
+.vscode/
+
+# MacOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Logs
+*.log
+
+# Testing/coverage reports
+*.coverage
+*.tox/
+*.nox/
+*.coverage.*
+*.hypothesis/
+
+# Python distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Model weights and checkpoints (usually large files)
+*.h5
+*.pkl
+*.pt
+*.ckpt
+*.pth
+*.bin
+
+# AI-specific files
+model/
+output/
+
+# Data files (if not needed for version control)
+data/
+*.csv
+*.tsv
+*.json
+*.pickle
+
+# Environment configuration files
+.env
+.env.*
+*.env
+
+# IPython profile
+profile_default/
+
+# Temporary files from IDEs
+*.swp
+*.swo
+
+# Coverage directory used by coverage.py
+.coverage/
+
+# pytest cache directory
+.pytest_cache/
+
+# Other editor backup files
+*~
+
+# Cache files
+*.pyc
+*.pyo
+*.pyd
+
+# TensorFlow specific (if using TensorFlow)
+saved_model/
+
+# Pytorch Lightning (if used)
+lightning_logs/
+
+# Jupyter Notebooks specific
+*.ipynb_checkpoints/

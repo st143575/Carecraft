@@ -1,0 +1,4 @@
+.env
+**.DS_Store
+preprocessing/preprocess_scenario_data.ipynb
+.venv
